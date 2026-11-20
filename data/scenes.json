@@ -1,0 +1,292 @@
+{
+  "timezone": "Asia/Tokyo",
+  "hourInterval": {
+    "startInclusive": true,
+    "endInclusive": false
+  },
+  "bands": {
+    "morning": {
+      "startHour": 6,
+      "endHour": 11,
+      "variants": [
+        "morning-a",
+        "morning-b"
+      ]
+    },
+    "day": {
+      "startHour": 11,
+      "endHour": 17,
+      "variants": [
+        "day-a",
+        "day-b",
+        "day-c"
+      ],
+      "rainVariant": "day-rain"
+    },
+    "evening": {
+      "startHour": 17,
+      "endHour": 23,
+      "variants": [
+        "evening-a",
+        "evening-b",
+        "evening-c"
+      ]
+    },
+    "night": {
+      "startHour": 23,
+      "endHour": 6,
+      "variants": [
+        "night-a",
+        "night-b"
+      ]
+    }
+  },
+  "scenes": [
+    {
+      "id": "morning-a",
+      "band": "morning",
+      "name": "背伸び",
+      "sleeping": false
+    },
+    {
+      "id": "morning-b",
+      "band": "morning",
+      "name": "朝ごはん",
+      "sleeping": false
+    },
+    {
+      "id": "day-a",
+      "band": "day",
+      "name": "パソコン",
+      "sleeping": false
+    },
+    {
+      "id": "day-b",
+      "band": "day",
+      "name": "ボール遊び",
+      "sleeping": false
+    },
+    {
+      "id": "day-c",
+      "band": "day",
+      "name": "お昼寝",
+      "sleeping": true
+    },
+    {
+      "id": "evening-a",
+      "band": "evening",
+      "name": "読書",
+      "sleeping": false
+    },
+    {
+      "id": "evening-b",
+      "band": "evening",
+      "name": "お茶",
+      "sleeping": false
+    },
+    {
+      "id": "evening-c",
+      "band": "evening",
+      "name": "おやつ待て",
+      "sleeping": false
+    },
+    {
+      "id": "night-a",
+      "band": "night",
+      "name": "毛布就寝",
+      "sleeping": true
+    },
+    {
+      "id": "night-b",
+      "band": "night",
+      "name": "月見",
+      "sleeping": false
+    },
+    {
+      "id": "day-rain",
+      "band": "day",
+      "name": "雨の日",
+      "sleeping": false,
+      "special": "rain"
+    }
+  ],
+  "seasons": {
+    "spring": [
+      3,
+      4,
+      5
+    ],
+    "summer": [
+      6,
+      7,
+      8
+    ],
+    "autumn": [
+      9,
+      10,
+      11
+    ],
+    "winter": [
+      12,
+      1,
+      2
+    ]
+  },
+  "media": {
+    "filePattern": "assets/{scene}/scene-{scene}{editionSuffix}--{viewKey}.{ext}",
+    "extensions": [
+      "webp",
+      "mp4"
+    ],
+    "editionSuffix": {
+      "default": {
+        "normal": "-baked",
+        "winter": "-winter"
+      },
+      "overrides": {
+        "day-rain": {
+          "normal": "",
+          "winter": "-winter"
+        }
+      }
+    },
+    "viewKeys": {
+      "daytime": {
+        "scenes": [
+          "morning-a",
+          "morning-b",
+          "day-a",
+          "day-b",
+          "day-c",
+          "evening-a",
+          "evening-b",
+          "evening-c"
+        ],
+        "normal": [
+          "sunny",
+          "cloudy",
+          "rain",
+          "snow",
+          "sunny-spring",
+          "cloudy-spring",
+          "sunny-autumn",
+          "cloudy-autumn"
+        ],
+        "winter": [
+          "sunny",
+          "cloudy",
+          "rain",
+          "snow"
+        ]
+      },
+      "night": {
+        "scenes": [
+          "night-a",
+          "night-b"
+        ],
+        "normal": [
+          "clear",
+          "rain",
+          "snow"
+        ],
+        "winter": [
+          "clear",
+          "rain",
+          "snow"
+        ]
+      },
+      "rain": {
+        "scenes": [
+          "day-rain"
+        ],
+        "normal": [
+          "rain"
+        ],
+        "winter": [
+          "rain"
+        ]
+      }
+    }
+  },
+  "rules": {
+    "weatherLabelToWindowKind": {
+      "evaluation": "firstMatch",
+      "cases": [
+        {
+          "labelAbsent": true,
+          "windowKind": null
+        },
+        {
+          "containsAny": [
+            "雪"
+          ],
+          "windowKind": "snow"
+        },
+        {
+          "containsAny": [
+            "雨",
+            "雷"
+          ],
+          "windowKind": "rain"
+        },
+        {
+          "containsAny": [
+            "晴れ"
+          ],
+          "containsNone": [
+            "くもり"
+          ],
+          "windowKind": "sunny"
+        },
+        {
+          "otherwise": true,
+          "windowKind": "cloudy"
+        }
+      ]
+    },
+    "windowKindToViewKey": {
+      "night": {
+        "rain": "rain",
+        "snow": "snow",
+        "otherwise": "clear"
+      },
+      "daytime": {
+        "rain": "rain",
+        "snow": "snow",
+        "sunnyOrCloudy": {
+          "base": "windowKind",
+          "seasonSuffix": {
+            "spring": "-spring",
+            "summer": "",
+            "autumn": "-autumn",
+            "winter": ""
+          }
+        }
+      }
+    },
+    "fallback": {
+      "nullWindowKind": {
+        "daytime": "cloudy",
+        "night": "clear"
+      },
+      "mediaResolutionOrder": [
+        "viewKey",
+        "cloudy",
+        "clear",
+        "firstAvailable"
+      ]
+    },
+    "rainDay": {
+      "bands": [
+        "morning",
+        "day",
+        "evening"
+      ],
+      "labelContainsAny": [
+        "雨",
+        "雷"
+      ],
+      "scene": "day-rain"
+    }
+  }
+}

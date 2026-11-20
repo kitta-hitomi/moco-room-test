@@ -1,0 +1,26 @@
+# 生成物・依存
+node_modules/
+__pycache__/
+*.pyc
+dist/
+build/
+
+# OS・編集環境
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 秘密情報（絶対にコミットしない）
+.env
+.env.*
+*.pem
+*.key
+*secret*
+*token*
+credentials*
+
+# ローカル作業用
+*.tmp
+*.log
+.DS_Store

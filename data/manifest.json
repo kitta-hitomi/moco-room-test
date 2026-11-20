@@ -1,0 +1,1762 @@
+[
+  {
+    "path": "assets/day-a/scene-day-a-baked--cloudy-autumn.mp4",
+    "scene": "day-a",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "941a9e893b2f2e2297c1ad98572b9ff879879b8e89c7d2431e99fa20792c36a5",
+    "bytes": 197946
+  },
+  {
+    "path": "assets/day-a/scene-day-a-baked--cloudy-autumn.webp",
+    "scene": "day-a",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "710e7c8e36cb623bd886c2f32e453e36c33c54a5cec3edd3d0b1f83e1b5cffae",
+    "bytes": 166532
+  },
+  {
+    "path": "assets/day-a/scene-day-a-baked--cloudy-spring.mp4",
+    "scene": "day-a",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "2bbc406ebef53292b484d4f6c7ebaab87f00b8e49e55066bd2d3a082162dff0e",
+    "bytes": 198252
+  },
+  {
+    "path": "assets/day-a/scene-day-a-baked--cloudy-spring.webp",
+    "scene": "day-a",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "2a9e156c399b308e95152e82391677ca6de7e29b9cbc0767e5e80998da7ee324",
+    "bytes": 163658
+  },
+  {
+    "path": "assets/day-a/scene-day-a-baked--cloudy.mp4",
+    "scene": "day-a",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "23866d7e6e80261a3b77f5d18e93e70845269048d73cef56f8c1fef61b65e876",
+    "bytes": 196921
+  },
+  {
+    "path": "assets/day-a/scene-day-a-baked--cloudy.webp",
+    "scene": "day-a",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "112438ad70e6bcc37a4bc0a340029c52f86dfd2d74fc5e4c94ba200391235073",
+    "bytes": 161786
+  },
+  {
+    "path": "assets/day-a/scene-day-a-baked--rain.mp4",
+    "scene": "day-a",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "dd5da827020f110ee9221864a93a44ed5da0abbf0ffa95333178a481c4114cb6",
+    "bytes": 197515
+  },
+  {
+    "path": "assets/day-a/scene-day-a-baked--rain.webp",
+    "scene": "day-a",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "58de88b85036d0d4a3ad4d7fa8d3fb1218c17711386a3be235f85f7183a2b6de",
+    "bytes": 162558
+  },
+  {
+    "path": "assets/day-a/scene-day-a-baked--snow.mp4",
+    "scene": "day-a",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "bc10d342e20fec556db0b894468793977d842d0796f31f8a3548090a08e8d3d9",
+    "bytes": 198100
+  },
+  {
+    "path": "assets/day-a/scene-day-a-baked--snow.webp",
+    "scene": "day-a",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "8e3b529e2b4b31b6747e1df365b0859d9d7f60f7c325884a2461fcd24ee329e5",
+    "bytes": 159360
+  },
+  {
+    "path": "assets/day-a/scene-day-a-baked--sunny-autumn.mp4",
+    "scene": "day-a",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "92da86254922069b38ce10c25216585f50d28903fd1b673aebec89c5b8e873c9",
+    "bytes": 202506
+  },
+  {
+    "path": "assets/day-a/scene-day-a-baked--sunny-autumn.webp",
+    "scene": "day-a",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "0aae390d6d75d74b7dae4470b2464e02271677d14dc9523a16c6c22800ac4a57",
+    "bytes": 167718
+  },
+  {
+    "path": "assets/day-a/scene-day-a-baked--sunny-spring.mp4",
+    "scene": "day-a",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "d551236b05cd0c04bedc187f379d86e1c8f8824323a9b5d67649e727eae91e19",
+    "bytes": 202238
+  },
+  {
+    "path": "assets/day-a/scene-day-a-baked--sunny-spring.webp",
+    "scene": "day-a",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "f09a8a4d51411ec0f5b8fd6ecbcff3ab900f7bf1b6b5e930a98e159a6e07ec58",
+    "bytes": 170474
+  },
+  {
+    "path": "assets/day-a/scene-day-a-baked--sunny.mp4",
+    "scene": "day-a",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "893cbcfb8c6a035078cdaf7a6ce39d945c893f5b24d201144a50f7a9b24b4582",
+    "bytes": 199826
+  },
+  {
+    "path": "assets/day-a/scene-day-a-baked--sunny.webp",
+    "scene": "day-a",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "c298a7ca99ff810e4cea55f33346e7f22e49f2d3dfd0a62a55e83f5f0561d95a",
+    "bytes": 165096
+  },
+  {
+    "path": "assets/day-a/scene-day-a-winter--cloudy.mp4",
+    "scene": "day-a",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "e194b3ccd07eb9bc008e9f6c3bf61d9d0eb52c08e1d669ec2553cd8bb5ae7326",
+    "bytes": 184312
+  },
+  {
+    "path": "assets/day-a/scene-day-a-winter--cloudy.webp",
+    "scene": "day-a",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "aee89caea58e0f9fc1b9dd2bf6efbb35526a59c16df426825a7bb70ff518d45a",
+    "bytes": 186516
+  },
+  {
+    "path": "assets/day-a/scene-day-a-winter--rain.mp4",
+    "scene": "day-a",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "a705e1bfad71b1a6c650dfae98dcc29f87e5f12aa5fd489a670d9a944cb1d633",
+    "bytes": 185214
+  },
+  {
+    "path": "assets/day-a/scene-day-a-winter--rain.webp",
+    "scene": "day-a",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "e68a1a8f27be3a64b688c551690a61187a26cddff7d5a2133dd6c2a80a525885",
+    "bytes": 199428
+  },
+  {
+    "path": "assets/day-a/scene-day-a-winter--snow.mp4",
+    "scene": "day-a",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "b44be5a4869d1cf6b7f6f419d685cc78040f85ddd1c5577d6159010e0945e73d",
+    "bytes": 184835
+  },
+  {
+    "path": "assets/day-a/scene-day-a-winter--snow.webp",
+    "scene": "day-a",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "9457a9e1af9fbad8353aefc53532c06afbf2adff25b97741a28c825161d325b7",
+    "bytes": 187332
+  },
+  {
+    "path": "assets/day-a/scene-day-a-winter--sunny.mp4",
+    "scene": "day-a",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "899ac6cbc6cdc568f9e6644ccbf587257fbe5550db388565b01126ddd9900e2d",
+    "bytes": 183438
+  },
+  {
+    "path": "assets/day-a/scene-day-a-winter--sunny.webp",
+    "scene": "day-a",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "ce52bc44caadaf1cc5baa559955819e652ea81bd42a9c0e4536c8f2c68a061d1",
+    "bytes": 186280
+  },
+  {
+    "path": "assets/day-b/scene-day-b-baked--cloudy-autumn.mp4",
+    "scene": "day-b",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "aaf53785c5b3c3e1e85a254ccb95d758c4c24ef63a987b8d67213723a499b1da",
+    "bytes": 216042
+  },
+  {
+    "path": "assets/day-b/scene-day-b-baked--cloudy-autumn.webp",
+    "scene": "day-b",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "97b5e79d2e7b021a2593222a14846460bfc56bb179cd125629a6aa2d4f340cf1",
+    "bytes": 159030
+  },
+  {
+    "path": "assets/day-b/scene-day-b-baked--cloudy-spring.mp4",
+    "scene": "day-b",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "ebe3482e04bc270875ab46bf60f5cb7bf8a19fec58c8ac40f3850005882bad6f",
+    "bytes": 215319
+  },
+  {
+    "path": "assets/day-b/scene-day-b-baked--cloudy-spring.webp",
+    "scene": "day-b",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "abfd03d8f6be59221e228d3bf00049e505c6db7c72fb7bb9e3b46451aba04b25",
+    "bytes": 158076
+  },
+  {
+    "path": "assets/day-b/scene-day-b-baked--cloudy.mp4",
+    "scene": "day-b",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "f010e148087986927c9dd7ceeca3223f7cccffa3ae4b65ef760572fedc9d4eac",
+    "bytes": 214500
+  },
+  {
+    "path": "assets/day-b/scene-day-b-baked--cloudy.webp",
+    "scene": "day-b",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "54abadd5faa518bb114a206b6b26bd633fc2d9e5653b75dbcc77611e4f100312",
+    "bytes": 157678
+  },
+  {
+    "path": "assets/day-b/scene-day-b-baked--rain.mp4",
+    "scene": "day-b",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "e814ecf572307d2d450c2a1a1ead102596e294f2bc6c752124e9c63a2c3817ef",
+    "bytes": 217779
+  },
+  {
+    "path": "assets/day-b/scene-day-b-baked--rain.webp",
+    "scene": "day-b",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "6d1744cef740e1120fb15c66b646bf03b6b887caf5a1ecf36f7638ca6a9108a0",
+    "bytes": 164294
+  },
+  {
+    "path": "assets/day-b/scene-day-b-baked--snow.mp4",
+    "scene": "day-b",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "1bef36dd1bc2963ab197c307ed6c30f7d225123dad9c7df078982728caaf0d75",
+    "bytes": 216816
+  },
+  {
+    "path": "assets/day-b/scene-day-b-baked--snow.webp",
+    "scene": "day-b",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "34843a39521726e6974d37e10210287674466458dd9037de23e34fd9fc5890d9",
+    "bytes": 158118
+  },
+  {
+    "path": "assets/day-b/scene-day-b-baked--sunny-autumn.mp4",
+    "scene": "day-b",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "a60fec7b68ca2f72fb8b9fbc30c3ae7f7ccadf18ce328b1cb27d98683640c31c",
+    "bytes": 217111
+  },
+  {
+    "path": "assets/day-b/scene-day-b-baked--sunny-autumn.webp",
+    "scene": "day-b",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "5f0cba3a8d6f6febe2de913b2b2334d5f4a3e5c7d0587be4f8a7ce70442fd76e",
+    "bytes": 157576
+  },
+  {
+    "path": "assets/day-b/scene-day-b-baked--sunny-spring.mp4",
+    "scene": "day-b",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "98deb36c7b7c4dfb68fa4deb26e82c7fa63c91002de1694af76ee41765f2a97c",
+    "bytes": 216295
+  },
+  {
+    "path": "assets/day-b/scene-day-b-baked--sunny-spring.webp",
+    "scene": "day-b",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "e65ac0ee4aa5699d3ded8fe398c2f59b3a10091a5172425f5cd699bb4344a6d5",
+    "bytes": 157372
+  },
+  {
+    "path": "assets/day-b/scene-day-b-baked--sunny.mp4",
+    "scene": "day-b",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "523431455698c67d79a3f04afee14d97e80c19fadbd28344f46121fac186aa66",
+    "bytes": 214661
+  },
+  {
+    "path": "assets/day-b/scene-day-b-baked--sunny.webp",
+    "scene": "day-b",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "dbce8ccae3006f881b49cf364d6b9d653f10d55d423f6c48686021c2aa595868",
+    "bytes": 157312
+  },
+  {
+    "path": "assets/day-b/scene-day-b-winter--cloudy.mp4",
+    "scene": "day-b",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "6d8d84bac2790bc0d004995fc4783cfca37248d3c5f2f729d2484e3a223b0d00",
+    "bytes": 236057
+  },
+  {
+    "path": "assets/day-b/scene-day-b-winter--cloudy.webp",
+    "scene": "day-b",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "c89027e6538a7957ec0d9e55b7f191ca21866328264b7fbc5f6f2417ddcb7149",
+    "bytes": 186356
+  },
+  {
+    "path": "assets/day-b/scene-day-b-winter--rain.mp4",
+    "scene": "day-b",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "891a86bc3cf5d4491610de451db32b785869c4419d17fab954d4f6b80cefb47f",
+    "bytes": 239461
+  },
+  {
+    "path": "assets/day-b/scene-day-b-winter--rain.webp",
+    "scene": "day-b",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "def38e75a3014a3be8f7388f7bd7429019d55db35d435d1604d736dbe204f868",
+    "bytes": 189914
+  },
+  {
+    "path": "assets/day-b/scene-day-b-winter--snow.mp4",
+    "scene": "day-b",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "87e2c89cbf13c546b060065bdd12cd932c1e550d99f3ec0ae83ce926fd9a509a",
+    "bytes": 238756
+  },
+  {
+    "path": "assets/day-b/scene-day-b-winter--snow.webp",
+    "scene": "day-b",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "8235469424ae81028273c1de8513d0af1dcc20a052860ac42aa78e945038e61c",
+    "bytes": 187214
+  },
+  {
+    "path": "assets/day-b/scene-day-b-winter--sunny.mp4",
+    "scene": "day-b",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "bb6e7e45de8da29548f7560fe38eec0d198cd4a5a3620d30a56a9e434c3a9931",
+    "bytes": 236111
+  },
+  {
+    "path": "assets/day-b/scene-day-b-winter--sunny.webp",
+    "scene": "day-b",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "30df96e12fdfe1bd21a966cd2951e7c6de4a65191f3c8302cb86000bd4e36c7f",
+    "bytes": 186614
+  },
+  {
+    "path": "assets/day-c/scene-day-c-baked--cloudy-autumn.mp4",
+    "scene": "day-c",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "0330ecc0435065569f59d7d71b346abfe729c7c943329c11a854d2f565f8f7b1",
+    "bytes": 181049
+  },
+  {
+    "path": "assets/day-c/scene-day-c-baked--cloudy-autumn.webp",
+    "scene": "day-c",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "b6f33493c06aadf0c9ee31ee78e5b85f602bba36abeb47dd4e415f742ef04f55",
+    "bytes": 164498
+  },
+  {
+    "path": "assets/day-c/scene-day-c-baked--cloudy-spring.mp4",
+    "scene": "day-c",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "0bd692013e6d78061b81f1e153acc08cbb64b8c784e1b2a7dd6e64886acdc670",
+    "bytes": 180203
+  },
+  {
+    "path": "assets/day-c/scene-day-c-baked--cloudy-spring.webp",
+    "scene": "day-c",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "2cc5b6edff7668b9c76722bcf5b4b15e8e4af170dfdf85e337beb21f257243f8",
+    "bytes": 163796
+  },
+  {
+    "path": "assets/day-c/scene-day-c-baked--cloudy.mp4",
+    "scene": "day-c",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "ffe78ed8b4de115b496e73a3f94b06a72d5213f0219dda216d066c4aa61a5e06",
+    "bytes": 179735
+  },
+  {
+    "path": "assets/day-c/scene-day-c-baked--cloudy.webp",
+    "scene": "day-c",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "ec113dd699cf3d955f3b7e517afb6464022b8f199f3aff018bfa3f8ebaac774e",
+    "bytes": 163648
+  },
+  {
+    "path": "assets/day-c/scene-day-c-baked--rain.mp4",
+    "scene": "day-c",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "040f4ad92ae43b2527c9432cb4a85d82568f096edef2bcdee498a5fddc608cac",
+    "bytes": 182961
+  },
+  {
+    "path": "assets/day-c/scene-day-c-baked--rain.webp",
+    "scene": "day-c",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "3ef6f442894ee968ad80a2ae5aabd3b7b6a9bba3b8e3f01e773bbab307165a8e",
+    "bytes": 167028
+  },
+  {
+    "path": "assets/day-c/scene-day-c-baked--snow.mp4",
+    "scene": "day-c",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "ffb3db90dfc67db957244d0c91bd10bb4e35e0263feee631646071697998427a",
+    "bytes": 182019
+  },
+  {
+    "path": "assets/day-c/scene-day-c-baked--snow.webp",
+    "scene": "day-c",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "5096ec5b86f5cdbe6c403a67612918b6daba1902e1cc039921cf11e1dc8ad211",
+    "bytes": 164214
+  },
+  {
+    "path": "assets/day-c/scene-day-c-baked--sunny-autumn.mp4",
+    "scene": "day-c",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "b81f060d1686001f41564f76053306b9d0aae6da821dc348125c76e5c183db9a",
+    "bytes": 181430
+  },
+  {
+    "path": "assets/day-c/scene-day-c-baked--sunny-autumn.webp",
+    "scene": "day-c",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "fdb838a431f4d021ed5636ab2ddfd0fb503430ffe1c029c576eb243330c4d0b0",
+    "bytes": 165350
+  },
+  {
+    "path": "assets/day-c/scene-day-c-baked--sunny-spring.mp4",
+    "scene": "day-c",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "bff114ed721b4dd8e5e4495d74684055e38955eaeae92105a1afd49208f56ff5",
+    "bytes": 181188
+  },
+  {
+    "path": "assets/day-c/scene-day-c-baked--sunny-spring.webp",
+    "scene": "day-c",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "eb1674a07dadfca16e1428d9efcbb4230fb4c01367a8030daac91c80e7617095",
+    "bytes": 161744
+  },
+  {
+    "path": "assets/day-c/scene-day-c-baked--sunny.mp4",
+    "scene": "day-c",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "15e32ca5e1f6afeeae8d0920d34025b5f49d42ff03e9ed835d236f1d6b9a59f9",
+    "bytes": 180051
+  },
+  {
+    "path": "assets/day-c/scene-day-c-baked--sunny.webp",
+    "scene": "day-c",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "1f358f7dcac59423557389605ce1b6094b54e929f571e4914ebb5289a564a84f",
+    "bytes": 163392
+  },
+  {
+    "path": "assets/day-c/scene-day-c-winter--cloudy.mp4",
+    "scene": "day-c",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "737e19a5411014117997e3a3acda71c6778f049c19e20f988ba0367820bb01b7",
+    "bytes": 168174
+  },
+  {
+    "path": "assets/day-c/scene-day-c-winter--cloudy.webp",
+    "scene": "day-c",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "ac0014c9090688e31f4a2997f7843d578c7d6ac93698ed5bd98f236b23d29b9f",
+    "bytes": 146502
+  },
+  {
+    "path": "assets/day-c/scene-day-c-winter--rain.mp4",
+    "scene": "day-c",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "77ab2a50554ea90cac14eb60fd497c53e8412e288ed15068bdcd7ccf71afb5e9",
+    "bytes": 172105
+  },
+  {
+    "path": "assets/day-c/scene-day-c-winter--rain.webp",
+    "scene": "day-c",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "d85514f35c80219374d6668fb47ef1e87dc4dccb73980954073418b08933c134",
+    "bytes": 150844
+  },
+  {
+    "path": "assets/day-c/scene-day-c-winter--snow.mp4",
+    "scene": "day-c",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "3711d3e0c392504be09e731e9bdea13f85785a28443193dbaa2e2e865a8a8fd4",
+    "bytes": 170979
+  },
+  {
+    "path": "assets/day-c/scene-day-c-winter--snow.webp",
+    "scene": "day-c",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "f6cd46a8fe381ed85f2de3882a5240174074281effacbd20b29d22ed120daf3d",
+    "bytes": 148062
+  },
+  {
+    "path": "assets/day-c/scene-day-c-winter--sunny.mp4",
+    "scene": "day-c",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "0ef9948f9b3317b43bdb5f5f5837721fafd92fb127eabfc21fa9383d37ecec7d",
+    "bytes": 169236
+  },
+  {
+    "path": "assets/day-c/scene-day-c-winter--sunny.webp",
+    "scene": "day-c",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "d00dc6b1943ad2da33bb7b2d767fd66321c8928a954577273d5385078ae71119",
+    "bytes": 146284
+  },
+  {
+    "path": "assets/day-rain/scene-day-rain--rain.mp4",
+    "scene": "day-rain",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "c15b9bc710e5121ac171044d52a944d15a0a5b1d7f0be9441d7ec94b727487f9",
+    "bytes": 140316
+  },
+  {
+    "path": "assets/day-rain/scene-day-rain--rain.webp",
+    "scene": "day-rain",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "927b0475baecd8b68972ce843c44307290f11ea993dc937079ffc33eaee65f63",
+    "bytes": 175724
+  },
+  {
+    "path": "assets/day-rain/scene-day-rain-winter--rain.mp4",
+    "scene": "day-rain",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "d0e0ae58e08a21954c6c4c0e9496a08142f140389c7749a9bad00b13e0f3d2d0",
+    "bytes": 169065
+  },
+  {
+    "path": "assets/day-rain/scene-day-rain-winter--rain.webp",
+    "scene": "day-rain",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "f2aa4f6c769d7c2a83e8e66ced8038835c505bfc30019b124b506df5f495a18a",
+    "bytes": 199354
+  },
+  {
+    "path": "assets/evening-a/scene-evening-a-baked--cloudy-autumn.mp4",
+    "scene": "evening-a",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "9d2c770c517acdb5ae644f772f586cf7d75b43606c308c7b745b1b7b708c0ce5",
+    "bytes": 194736
+  },
+  {
+    "path": "assets/evening-a/scene-evening-a-baked--cloudy-autumn.webp",
+    "scene": "evening-a",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "1c70160f894fb953d529ccd91a4f8c3299e86b01e2a9d8abdd64deb22d4be936",
+    "bytes": 168482
+  },
+  {
+    "path": "assets/evening-a/scene-evening-a-baked--cloudy-spring.mp4",
+    "scene": "evening-a",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "331cb0ab89f316abd7752c0e0ef99add7712b6cf648f150182b12a073cefcd61",
+    "bytes": 194489
+  },
+  {
+    "path": "assets/evening-a/scene-evening-a-baked--cloudy-spring.webp",
+    "scene": "evening-a",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "cf42e52fc590b3558a4556637ae053998e2977bfe1e18d31aaad659e737d408b",
+    "bytes": 168048
+  },
+  {
+    "path": "assets/evening-a/scene-evening-a-baked--cloudy.mp4",
+    "scene": "evening-a",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "c01648872c48aa29e77a748ebc8fb213283f1f1819f8239ecff068d695df1033",
+    "bytes": 194528
+  },
+  {
+    "path": "assets/evening-a/scene-evening-a-baked--cloudy.webp",
+    "scene": "evening-a",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "5ec3c3618a54e2b828dfc559a9b24dff02de6c5a9b143222deaa1ff8922bf8c2",
+    "bytes": 167842
+  },
+  {
+    "path": "assets/evening-a/scene-evening-a-baked--rain.mp4",
+    "scene": "evening-a",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "66d97e452fcbfba6c6c53497af99529833a5277ffc2e5ec865e206769d92e3b0",
+    "bytes": 197615
+  },
+  {
+    "path": "assets/evening-a/scene-evening-a-baked--rain.webp",
+    "scene": "evening-a",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "97e064c9fdbc87a474f382f5580d2b0fd167a6a8fba75263be107c3d3e6afcbd",
+    "bytes": 171538
+  },
+  {
+    "path": "assets/evening-a/scene-evening-a-baked--snow.mp4",
+    "scene": "evening-a",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "2c6b05b328c8ba9e01d8a3b0d82267fa5f3988193a6dcc52386c21d528fc60d3",
+    "bytes": 195590
+  },
+  {
+    "path": "assets/evening-a/scene-evening-a-baked--snow.webp",
+    "scene": "evening-a",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "217f3eb8db1d5cd9dd459cb96305eac409bc2e888258b102c6471e2363ce9199",
+    "bytes": 168556
+  },
+  {
+    "path": "assets/evening-a/scene-evening-a-baked--sunny-autumn.mp4",
+    "scene": "evening-a",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "6a48abfee3ab61a031656fe708c45bc2545db625dcabf4fedd22904569549b61",
+    "bytes": 195198
+  },
+  {
+    "path": "assets/evening-a/scene-evening-a-baked--sunny-autumn.webp",
+    "scene": "evening-a",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "c40ed79a3fd21a16977bdf19fe6c9fcfd907475f344ba680b29a98f23d1ac96c",
+    "bytes": 168008
+  },
+  {
+    "path": "assets/evening-a/scene-evening-a-baked--sunny-spring.mp4",
+    "scene": "evening-a",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "99415111f27782ee9cc04c72b62286893d98900bd4603ed68fc5fc1317c12364",
+    "bytes": 195426
+  },
+  {
+    "path": "assets/evening-a/scene-evening-a-baked--sunny-spring.webp",
+    "scene": "evening-a",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "4fe5a66fb012d9073910c81025771360293f09b520e874a95981de826a4e8d49",
+    "bytes": 168310
+  },
+  {
+    "path": "assets/evening-a/scene-evening-a-baked--sunny.mp4",
+    "scene": "evening-a",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "6f3f2cf710d322cc7443ee241c50c52948e94aa481be75c8f2f2031fa02e0067",
+    "bytes": 193923
+  },
+  {
+    "path": "assets/evening-a/scene-evening-a-baked--sunny.webp",
+    "scene": "evening-a",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "3b6bf8b91c1358a97a064ad22c18c23645b9306b97dd8deba32de7f491ccf3c0",
+    "bytes": 167574
+  },
+  {
+    "path": "assets/evening-a/scene-evening-a-winter--cloudy.mp4",
+    "scene": "evening-a",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "89832a7c3a2464cf0e6d512aece1281a473fa6e54ba42f4c7bb8bfd497f464cf",
+    "bytes": 195079
+  },
+  {
+    "path": "assets/evening-a/scene-evening-a-winter--cloudy.webp",
+    "scene": "evening-a",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "4d60b2f9392f8722b3c5e7664f3ef06351e79ea353584a6bde4a2302442fbe5e",
+    "bytes": 198922
+  },
+  {
+    "path": "assets/evening-a/scene-evening-a-winter--rain.mp4",
+    "scene": "evening-a",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "1bc4e46af02d2cbbf91135f559cec332281486eeebb51ed9f37fcffda8189d0a",
+    "bytes": 197348
+  },
+  {
+    "path": "assets/evening-a/scene-evening-a-winter--rain.webp",
+    "scene": "evening-a",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "4d28eaba2e0e88aabd52153a30cd90a8c6a58391cfd65bc6b4504750494f9650",
+    "bytes": 201908
+  },
+  {
+    "path": "assets/evening-a/scene-evening-a-winter--snow.mp4",
+    "scene": "evening-a",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "490bbc3d849ad266f08d93aa1c0ee6b12eb304469c2171ff14662806997dd23d",
+    "bytes": 195895
+  },
+  {
+    "path": "assets/evening-a/scene-evening-a-winter--snow.webp",
+    "scene": "evening-a",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "767e0142ace1377bbd015346a38d55301b13fcc248f2d1eb43a55b69281fc058",
+    "bytes": 199538
+  },
+  {
+    "path": "assets/evening-a/scene-evening-a-winter--sunny.mp4",
+    "scene": "evening-a",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "8ea625177848cc754b112dc602a87b460384f5a40512bb41f5e48e8f09b4742a",
+    "bytes": 195534
+  },
+  {
+    "path": "assets/evening-a/scene-evening-a-winter--sunny.webp",
+    "scene": "evening-a",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "bbd91559c630d77945b0ea09c7b1bc6aad04446f846625f8dc0530bdf74f253d",
+    "bytes": 199398
+  },
+  {
+    "path": "assets/evening-b/scene-evening-b-baked--cloudy-autumn.mp4",
+    "scene": "evening-b",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "bcc16c980427da135f2c5504102e8f6832c3ccfac7cee97d035b6aa1bafd340e",
+    "bytes": 173567
+  },
+  {
+    "path": "assets/evening-b/scene-evening-b-baked--cloudy-autumn.webp",
+    "scene": "evening-b",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "e1faa28f232a9cc82dcc7d75b189b9937c5dedb76d9bcda4d85973c8dfa90475",
+    "bytes": 157082
+  },
+  {
+    "path": "assets/evening-b/scene-evening-b-baked--cloudy-spring.mp4",
+    "scene": "evening-b",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "e31cdc0bccd6ed3ded2b42806d5b6a8f96dc8fc367f726210a4d5e9d1f82203b",
+    "bytes": 173721
+  },
+  {
+    "path": "assets/evening-b/scene-evening-b-baked--cloudy-spring.webp",
+    "scene": "evening-b",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "5a573b927a428932c9726035f159ee38cce4471c535898d947ca3761c14f9df4",
+    "bytes": 156816
+  },
+  {
+    "path": "assets/evening-b/scene-evening-b-baked--cloudy.mp4",
+    "scene": "evening-b",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "6d405bb74252b22344e666a70109f704ff97469991f9cec6e103b68392eac196",
+    "bytes": 172442
+  },
+  {
+    "path": "assets/evening-b/scene-evening-b-baked--cloudy.webp",
+    "scene": "evening-b",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "c08ded3f6edb211bf123c50541155595a1210009a1bf22059f59858596c2230d",
+    "bytes": 156646
+  },
+  {
+    "path": "assets/evening-b/scene-evening-b-baked--rain.mp4",
+    "scene": "evening-b",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "0d445bb4a12ebbe37fe255067a9d969945f72207a07015229e4d1db43d5f69a7",
+    "bytes": 174391
+  },
+  {
+    "path": "assets/evening-b/scene-evening-b-baked--rain.webp",
+    "scene": "evening-b",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "99dd2bf6b734d52324514e6cd1716aeae0bc0146ce53265bf01df511a4865050",
+    "bytes": 162200
+  },
+  {
+    "path": "assets/evening-b/scene-evening-b-baked--snow.mp4",
+    "scene": "evening-b",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "b76d04866f60e72c7d7924a8321c35668a70576cf7b02fe5a49d384bcfee5e80",
+    "bytes": 174086
+  },
+  {
+    "path": "assets/evening-b/scene-evening-b-baked--snow.webp",
+    "scene": "evening-b",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "e1ce4cb32aa10c9acc2ef63cc81f82d3734ad6f7be5309c00197e41f6466e84c",
+    "bytes": 160000
+  },
+  {
+    "path": "assets/evening-b/scene-evening-b-baked--sunny-autumn.mp4",
+    "scene": "evening-b",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "a825a6a131ca8915612c0451c9c5b935a018c9a52bb1e7809753ec33ce095942",
+    "bytes": 173548
+  },
+  {
+    "path": "assets/evening-b/scene-evening-b-baked--sunny-autumn.webp",
+    "scene": "evening-b",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "3f4fbc128a567cb6f15840fbb1cd43df871af1d44ff34d9b88b2eaa03be57f36",
+    "bytes": 156858
+  },
+  {
+    "path": "assets/evening-b/scene-evening-b-baked--sunny-spring.mp4",
+    "scene": "evening-b",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "3c2b808f914931d2d6c57608ccc62b77035c0879d327779d451146b4ee2d1633",
+    "bytes": 172616
+  },
+  {
+    "path": "assets/evening-b/scene-evening-b-baked--sunny-spring.webp",
+    "scene": "evening-b",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "58e1d1c88d6e8be8dff30fa21b48c4a849566c1e54ff29d15b4dcd49e2359d5b",
+    "bytes": 156896
+  },
+  {
+    "path": "assets/evening-b/scene-evening-b-baked--sunny.mp4",
+    "scene": "evening-b",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "744a7d3c954f0fdc161daf772bd3020c66ce805936c2c55b155c31d8c372b00f",
+    "bytes": 172025
+  },
+  {
+    "path": "assets/evening-b/scene-evening-b-baked--sunny.webp",
+    "scene": "evening-b",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "cc55650bca4b6467d22238958935c6a13b265bfbccc89d3846b4333e4a7f4035",
+    "bytes": 156288
+  },
+  {
+    "path": "assets/evening-b/scene-evening-b-winter--cloudy.mp4",
+    "scene": "evening-b",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "7e587b1670d911e3dddf53cb532f845c8056efc05ff26378f57a7002f3af958b",
+    "bytes": 218486
+  },
+  {
+    "path": "assets/evening-b/scene-evening-b-winter--cloudy.webp",
+    "scene": "evening-b",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "d0c2c62e35ea540bdb62b85e91dc3877896607e6563022d3856d3e75925ca48c",
+    "bytes": 205102
+  },
+  {
+    "path": "assets/evening-b/scene-evening-b-winter--rain.mp4",
+    "scene": "evening-b",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "251e47c3cbf8f9566242e42010a0ffd4e06718aa22a947bf65182c6a0b7c3bc0",
+    "bytes": 220739
+  },
+  {
+    "path": "assets/evening-b/scene-evening-b-winter--rain.webp",
+    "scene": "evening-b",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "4c692c517748fbbaa57777533040351035019ee44fde09fd80f00e73fffb4e68",
+    "bytes": 208844
+  },
+  {
+    "path": "assets/evening-b/scene-evening-b-winter--snow.mp4",
+    "scene": "evening-b",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "21f526c309303c7a0316d1a90983da690e80cf04b96aadc49c97d3fdfcbeb939",
+    "bytes": 219526
+  },
+  {
+    "path": "assets/evening-b/scene-evening-b-winter--snow.webp",
+    "scene": "evening-b",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "9654e0f8c673b087c6aa5c3bf708fa3f0214a94a9a655cd754d901f593fe30a3",
+    "bytes": 206138
+  },
+  {
+    "path": "assets/evening-b/scene-evening-b-winter--sunny.mp4",
+    "scene": "evening-b",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "195f53a1db4f6571b597bb9ab1418b091459f6884d46612c4a83af08d8f53f21",
+    "bytes": 218773
+  },
+  {
+    "path": "assets/evening-b/scene-evening-b-winter--sunny.webp",
+    "scene": "evening-b",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "d73178bfa3b4b646f2089f57ea246a0ef47a21cad902861fd2343319cad49998",
+    "bytes": 204558
+  },
+  {
+    "path": "assets/evening-c/scene-evening-c-baked--cloudy-autumn.mp4",
+    "scene": "evening-c",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "11331c144ee50fb116e625d1956cdbbdc4f36261c63c01073830a086aca21c6b",
+    "bytes": 201268
+  },
+  {
+    "path": "assets/evening-c/scene-evening-c-baked--cloudy-autumn.webp",
+    "scene": "evening-c",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "f51fea5430fc0460b1158b03c0e471b399f5feaf558d968469dc805cfd4c1150",
+    "bytes": 160056
+  },
+  {
+    "path": "assets/evening-c/scene-evening-c-baked--cloudy-spring.mp4",
+    "scene": "evening-c",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "aefa71eb823136c5bd5092e946487bd8e59f7d8044dbf25825e5504e4685a02e",
+    "bytes": 200398
+  },
+  {
+    "path": "assets/evening-c/scene-evening-c-baked--cloudy-spring.webp",
+    "scene": "evening-c",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "a79e502737ca1ecadf27a6fd6b6426d26006c747b08dda6745882cf6a1de9db1",
+    "bytes": 159404
+  },
+  {
+    "path": "assets/evening-c/scene-evening-c-baked--cloudy.mp4",
+    "scene": "evening-c",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "4ac42f154a6c100efbdc193835f374ebc5f63a66b5c3d81e498e6e71cfed238d",
+    "bytes": 200401
+  },
+  {
+    "path": "assets/evening-c/scene-evening-c-baked--cloudy.webp",
+    "scene": "evening-c",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "4f75de70f121732e296925bf2daf80cd903c4dbf035425ff76107dc073a3d48f",
+    "bytes": 158918
+  },
+  {
+    "path": "assets/evening-c/scene-evening-c-baked--rain.mp4",
+    "scene": "evening-c",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "83e3cd9011e1590d2fa0aeff65659e48a70a6c56caa52d8481b29655441506ce",
+    "bytes": 203100
+  },
+  {
+    "path": "assets/evening-c/scene-evening-c-baked--rain.webp",
+    "scene": "evening-c",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "47f489f970d830c48c45bb9bce960d83e0bc8e3eba6a72a255d049109e2ccae2",
+    "bytes": 161974
+  },
+  {
+    "path": "assets/evening-c/scene-evening-c-baked--snow.mp4",
+    "scene": "evening-c",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "c41079182bfd7c303c88a32b1a59caa25b5ad4b1270d4048f33d5a4f84fe12c9",
+    "bytes": 201980
+  },
+  {
+    "path": "assets/evening-c/scene-evening-c-baked--snow.webp",
+    "scene": "evening-c",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "6c2b3c9a1bea04bb56a6ad8c22a655e2bd479ff0bdc381afc1ad6e1dec36e8be",
+    "bytes": 160190
+  },
+  {
+    "path": "assets/evening-c/scene-evening-c-baked--sunny-autumn.mp4",
+    "scene": "evening-c",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "c16bad31dd6ff221435b87340f68a35101d68ab28306336775e65e5334994bc5",
+    "bytes": 200294
+  },
+  {
+    "path": "assets/evening-c/scene-evening-c-baked--sunny-autumn.webp",
+    "scene": "evening-c",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "8d12d7d5b02dd2701b04ec1f6622155ea44a34f9bee6de6a8dc596aa776adc7b",
+    "bytes": 158954
+  },
+  {
+    "path": "assets/evening-c/scene-evening-c-baked--sunny-spring.mp4",
+    "scene": "evening-c",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "afa699d9682301359af9db8b5134840c3ad07a103c71628ed975f49c7a196a6c",
+    "bytes": 201195
+  },
+  {
+    "path": "assets/evening-c/scene-evening-c-baked--sunny-spring.webp",
+    "scene": "evening-c",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "876f1abeba16ae023a5ffd0805986f8a0689eae47bec394a6f61fdf137304ed7",
+    "bytes": 159998
+  },
+  {
+    "path": "assets/evening-c/scene-evening-c-baked--sunny.mp4",
+    "scene": "evening-c",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "b480cb9b8cf97e363e5b575832c20166968a03d30fb96bebd34dade0e50ed83e",
+    "bytes": 199841
+  },
+  {
+    "path": "assets/evening-c/scene-evening-c-baked--sunny.webp",
+    "scene": "evening-c",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "9837c3ec48ca858bc9b581711f917062cc2a007be11f616de05f18a9a289ba23",
+    "bytes": 158340
+  },
+  {
+    "path": "assets/evening-c/scene-evening-c-winter--cloudy.mp4",
+    "scene": "evening-c",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "15286dd2df4bcd3d627559f8b972fe3fc39f3dc861abee29d43af3f9a6d4d248",
+    "bytes": 182707
+  },
+  {
+    "path": "assets/evening-c/scene-evening-c-winter--cloudy.webp",
+    "scene": "evening-c",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "d4305a349e7e900f503143c4f6cd33eb41ff8f2dc007f65d57f4a6fb5cc63fbf",
+    "bytes": 169764
+  },
+  {
+    "path": "assets/evening-c/scene-evening-c-winter--rain.mp4",
+    "scene": "evening-c",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "0a34e21df26932bdca91395ba9128f1c4be7fe2ec2eaf377dd3db0848f130632",
+    "bytes": 186256
+  },
+  {
+    "path": "assets/evening-c/scene-evening-c-winter--rain.webp",
+    "scene": "evening-c",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "1a9cb91943408258d7f3a1b9e33853bd7e91ceec7ef65c6b7035add95858a357",
+    "bytes": 173974
+  },
+  {
+    "path": "assets/evening-c/scene-evening-c-winter--snow.mp4",
+    "scene": "evening-c",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "1cc6095b61becde18dc8a42ee3758cb7077a45449ff229a754af4f1aebcd9dde",
+    "bytes": 184839
+  },
+  {
+    "path": "assets/evening-c/scene-evening-c-winter--snow.webp",
+    "scene": "evening-c",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "cbe4d0bf6c97447041d028ac2a401b35fd5654000fc38d718f0a7ca7d6bdf5f8",
+    "bytes": 171686
+  },
+  {
+    "path": "assets/evening-c/scene-evening-c-winter--sunny.mp4",
+    "scene": "evening-c",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "0a3a34d4eef70276a429e717932d299a93217519cd994cf51a73f33f66ec43f3",
+    "bytes": 183084
+  },
+  {
+    "path": "assets/evening-c/scene-evening-c-winter--sunny.webp",
+    "scene": "evening-c",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "8525fe61473a66d70003ecbb79ec7ca35eb59cfe4c45b2ac1b5c9ed050a12044",
+    "bytes": 170336
+  },
+  {
+    "path": "assets/morning-a/scene-morning-a-baked--cloudy-autumn.mp4",
+    "scene": "morning-a",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "f3c6d18423b78973f6d4b88f6a99af9f855df14c5f0e7b79ffb4a217113e3368",
+    "bytes": 242030
+  },
+  {
+    "path": "assets/morning-a/scene-morning-a-baked--cloudy-autumn.webp",
+    "scene": "morning-a",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "03663b979bf4cdc228e12e2945ba52c12e107267a97bf62bff2d32cc92251983",
+    "bytes": 146806
+  },
+  {
+    "path": "assets/morning-a/scene-morning-a-baked--cloudy-spring.mp4",
+    "scene": "morning-a",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "4d5753b1836a9d2bae464ad426b17f55aa8de95ca5df4dbb4966e9029f4445c5",
+    "bytes": 240941
+  },
+  {
+    "path": "assets/morning-a/scene-morning-a-baked--cloudy-spring.webp",
+    "scene": "morning-a",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "0b7136dc11d29da22977291b9a3567ff76e84c710a2b11ccb7aafa739ca963e7",
+    "bytes": 145372
+  },
+  {
+    "path": "assets/morning-a/scene-morning-a-baked--cloudy.mp4",
+    "scene": "morning-a",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "602df1289fb180f788f4aa9fdd20da648cd56c1bde6d601a401239b658589a21",
+    "bytes": 239921
+  },
+  {
+    "path": "assets/morning-a/scene-morning-a-baked--cloudy.webp",
+    "scene": "morning-a",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "1112c9472d7b6efdad85597424d4407ec7e4d5169b944be7f63e22d3b166e99a",
+    "bytes": 133880
+  },
+  {
+    "path": "assets/morning-a/scene-morning-a-baked--rain.mp4",
+    "scene": "morning-a",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "0375b6f8b043fffb7244e691321d722ff73146d355eb16ca3bde26e22f257457",
+    "bytes": 243341
+  },
+  {
+    "path": "assets/morning-a/scene-morning-a-baked--rain.webp",
+    "scene": "morning-a",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "af02bc447d8645a6ce312d77ba2ce0dc4d86e974c5e34828a7c50d4ce5867f55",
+    "bytes": 151532
+  },
+  {
+    "path": "assets/morning-a/scene-morning-a-baked--snow.mp4",
+    "scene": "morning-a",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "cef662185e417c8f29fffc92576c7f97468959115c418e40588af583a011e645",
+    "bytes": 241748
+  },
+  {
+    "path": "assets/morning-a/scene-morning-a-baked--snow.webp",
+    "scene": "morning-a",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "72c3324b8e19740f389960768657b4ae3201a9f431f5910e9afc13de8afc1fa5",
+    "bytes": 134954
+  },
+  {
+    "path": "assets/morning-a/scene-morning-a-baked--sunny-autumn.mp4",
+    "scene": "morning-a",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "31cf8191a36b060a56b93c4e52230dbf56dfbec23a10d19d699d1506dbec16a2",
+    "bytes": 241178
+  },
+  {
+    "path": "assets/morning-a/scene-morning-a-baked--sunny-autumn.webp",
+    "scene": "morning-a",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "94ac11ec0c21df79c57ffdd587d661f812a0d6c2cbc486e8c1d317ad5071ed98",
+    "bytes": 137390
+  },
+  {
+    "path": "assets/morning-a/scene-morning-a-baked--sunny-spring.mp4",
+    "scene": "morning-a",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "a955fa4137dc3a16d83033c0c1d10dc91f64d581ad53784cdd5e047f695504e6",
+    "bytes": 241542
+  },
+  {
+    "path": "assets/morning-a/scene-morning-a-baked--sunny-spring.webp",
+    "scene": "morning-a",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "df5c994ee582a6a1b7280485a06e5c4b1813303af8af20e3db6490e3e926b4e1",
+    "bytes": 134576
+  },
+  {
+    "path": "assets/morning-a/scene-morning-a-baked--sunny.mp4",
+    "scene": "morning-a",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "4211747714cb83588768670168695975f208b56d4d936ae0e0b00a950e6c5a51",
+    "bytes": 240407
+  },
+  {
+    "path": "assets/morning-a/scene-morning-a-baked--sunny.webp",
+    "scene": "morning-a",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "743ea46fc9e00fe247fb746d99db172f370dcf02dd168246ca8b612b0457dfc4",
+    "bytes": 134034
+  },
+  {
+    "path": "assets/morning-a/scene-morning-a-winter--cloudy.mp4",
+    "scene": "morning-a",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "ab7a7c53b28812bea080532027f053683971c53977ca505506498fdeee3d3d9c",
+    "bytes": 195960
+  },
+  {
+    "path": "assets/morning-a/scene-morning-a-winter--cloudy.webp",
+    "scene": "morning-a",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "befad139d66b91612cdaa7c83d2cccbfcbafeca4298c1fd203552c56a8abeede",
+    "bytes": 142232
+  },
+  {
+    "path": "assets/morning-a/scene-morning-a-winter--rain.mp4",
+    "scene": "morning-a",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "cf97b7db292ade40573a2fdf1fb7c6336bfe99fd27da067b46f6f249da16133d",
+    "bytes": 198322
+  },
+  {
+    "path": "assets/morning-a/scene-morning-a-winter--rain.webp",
+    "scene": "morning-a",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "8fd6f9a3bc4ebecd9e8d4c4dfbb49ceb710efae757140b2b9c082404cf021396",
+    "bytes": 145162
+  },
+  {
+    "path": "assets/morning-a/scene-morning-a-winter--snow.mp4",
+    "scene": "morning-a",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "9ed8be16ebf110a62f1eb7190258b917ea3adbba382ab6308ed915cd6ad3e647",
+    "bytes": 198534
+  },
+  {
+    "path": "assets/morning-a/scene-morning-a-winter--snow.webp",
+    "scene": "morning-a",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "87220b96c0d70b6eb9c7d68da35df51827e6d334c51d4a3c8103d42bb060f30c",
+    "bytes": 142718
+  },
+  {
+    "path": "assets/morning-a/scene-morning-a-winter--sunny.mp4",
+    "scene": "morning-a",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "f491a572f52c942f80ec2969abcb378ed5eeb896e10f543284af2d642e139b2d",
+    "bytes": 195871
+  },
+  {
+    "path": "assets/morning-a/scene-morning-a-winter--sunny.webp",
+    "scene": "morning-a",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "52c2e607c2ff8ba3392ec2defd913bd2101bbb639b83760d0b1113ba7a009640",
+    "bytes": 142086
+  },
+  {
+    "path": "assets/morning-b/scene-morning-b-baked--cloudy-autumn.mp4",
+    "scene": "morning-b",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "5488b480816ad0810c9730b48df237acbbcdbaa3093ee56280f8ddc4a021352b",
+    "bytes": 250568
+  },
+  {
+    "path": "assets/morning-b/scene-morning-b-baked--cloudy-autumn.webp",
+    "scene": "morning-b",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "ff0a213d00bf5124fa44a939a7037722235d7e466e5b36a74384d86dc5c979d8",
+    "bytes": 190570
+  },
+  {
+    "path": "assets/morning-b/scene-morning-b-baked--cloudy-spring.mp4",
+    "scene": "morning-b",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "22959835718cffd02bc78f28c21c115326aac99164c570af4ed74be45703317d",
+    "bytes": 249435
+  },
+  {
+    "path": "assets/morning-b/scene-morning-b-baked--cloudy-spring.webp",
+    "scene": "morning-b",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "0224e303bc0a75714a0a991dcd804ebdce66fda02e09bfbc838ec4b59b420155",
+    "bytes": 189918
+  },
+  {
+    "path": "assets/morning-b/scene-morning-b-baked--cloudy.mp4",
+    "scene": "morning-b",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "97e9e6c3422afe2a93bd726c5786a27f3b459a752d3a21717043b04c74870fb4",
+    "bytes": 248260
+  },
+  {
+    "path": "assets/morning-b/scene-morning-b-baked--cloudy.webp",
+    "scene": "morning-b",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "d33d4a1678238673bed75fb1f5a1aaf67f3d762ec6978a7a022a37f6334bbaaf",
+    "bytes": 189346
+  },
+  {
+    "path": "assets/morning-b/scene-morning-b-baked--rain.mp4",
+    "scene": "morning-b",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "ca1abf56e247ad74e0080bca00341186508da8098d1391d2e9c181560b301869",
+    "bytes": 252803
+  },
+  {
+    "path": "assets/morning-b/scene-morning-b-baked--rain.webp",
+    "scene": "morning-b",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "8b0084e7df9a5b7270a0fd272532bb2c8ee0cae57978a41652849f18cc58b054",
+    "bytes": 191980
+  },
+  {
+    "path": "assets/morning-b/scene-morning-b-baked--snow.mp4",
+    "scene": "morning-b",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "d527f15939e16a6244ee24bd12355074dd5fb4e57d191f83b002c8fa2c450cc6",
+    "bytes": 251442
+  },
+  {
+    "path": "assets/morning-b/scene-morning-b-baked--snow.webp",
+    "scene": "morning-b",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "be6ace35433a454158e830e075e8adb6aba9ada35ccecef29f127817b59bb5f2",
+    "bytes": 188968
+  },
+  {
+    "path": "assets/morning-b/scene-morning-b-baked--sunny-autumn.mp4",
+    "scene": "morning-b",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "3f11a5a50cb37c7f355c38b632ba1b89ce323fe61856bff3a54b36fbcc60be2c",
+    "bytes": 250286
+  },
+  {
+    "path": "assets/morning-b/scene-morning-b-baked--sunny-autumn.webp",
+    "scene": "morning-b",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "dfafa8be383696c66d73583b4995ac5615dd9d6f051c8623903c45d7fe356ce8",
+    "bytes": 190766
+  },
+  {
+    "path": "assets/morning-b/scene-morning-b-baked--sunny-spring.mp4",
+    "scene": "morning-b",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "ed70558e18a3d1fff7db54e6b127c86c0c48a9c87ef5087329f130220b0f7bab",
+    "bytes": 249874
+  },
+  {
+    "path": "assets/morning-b/scene-morning-b-baked--sunny-spring.webp",
+    "scene": "morning-b",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "761ee74a6d3384f7c57b9ac8500f229d6230dc2f9491b34e20509319c12364d1",
+    "bytes": 189932
+  },
+  {
+    "path": "assets/morning-b/scene-morning-b-baked--sunny.mp4",
+    "scene": "morning-b",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "ef3723a1280e7c71981312c53861c98f9e566b997bd0dc8413a691e4db78cc6f",
+    "bytes": 248638
+  },
+  {
+    "path": "assets/morning-b/scene-morning-b-baked--sunny.webp",
+    "scene": "morning-b",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "a5729507d3e66752031fc5ced1f6c4ec4a2ae9608385fd1048fadf1aaa26eaf0",
+    "bytes": 189316
+  },
+  {
+    "path": "assets/morning-b/scene-morning-b-winter--cloudy.mp4",
+    "scene": "morning-b",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "5f91ed555a3dd8068b2a98775111c83132f19611e797db3c057f79802afe45ca",
+    "bytes": 268032
+  },
+  {
+    "path": "assets/morning-b/scene-morning-b-winter--cloudy.webp",
+    "scene": "morning-b",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "b3ccff6bcd190c8926a1968a4ff1ba013f7d99f688511ce5984c5d8755889b55",
+    "bytes": 189252
+  },
+  {
+    "path": "assets/morning-b/scene-morning-b-winter--rain.mp4",
+    "scene": "morning-b",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "8f191e01ed5218a7ef869c0a42ec181473586c5623cd0090835cb1bec1d0647b",
+    "bytes": 272952
+  },
+  {
+    "path": "assets/morning-b/scene-morning-b-winter--rain.webp",
+    "scene": "morning-b",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "106208a1b9f3996743e768f39a4c9dbe573074e1593f18101b3eae4a10eb85e0",
+    "bytes": 192626
+  },
+  {
+    "path": "assets/morning-b/scene-morning-b-winter--snow.mp4",
+    "scene": "morning-b",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "8dca0f89cb2769685586415775189bd6b3ef32ee7baae782d70cfe2862fe1253",
+    "bytes": 271447
+  },
+  {
+    "path": "assets/morning-b/scene-morning-b-winter--snow.webp",
+    "scene": "morning-b",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "b91bac0a822b3f0968333131a4d50dee83ce665c9da858f977b6786b74399c09",
+    "bytes": 189698
+  },
+  {
+    "path": "assets/morning-b/scene-morning-b-winter--sunny.mp4",
+    "scene": "morning-b",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "05b2df3c2ebb88959123d237de399febb8be0abbe7fbfe8c4687e9dda4e3d007",
+    "bytes": 269124
+  },
+  {
+    "path": "assets/morning-b/scene-morning-b-winter--sunny.webp",
+    "scene": "morning-b",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "0bd2dcbb89e2e71f858ebb1057811bd67577b3a98c7f669b317e535485bd8267",
+    "bytes": 189112
+  },
+  {
+    "path": "assets/night-a/scene-night-a-baked--clear.mp4",
+    "scene": "night-a",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "73a94919c40755f233f011f529f837454e559e48a8c31aa4198ada735f1100a4",
+    "bytes": 206617
+  },
+  {
+    "path": "assets/night-a/scene-night-a-baked--clear.webp",
+    "scene": "night-a",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "c79b15605ee80681393ad599b58fb3aa66948157110f891318f23ce697e62bd5",
+    "bytes": 173464
+  },
+  {
+    "path": "assets/night-a/scene-night-a-baked--rain.mp4",
+    "scene": "night-a",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "24bd4f83ebf500a64ea43d4fa117c02b4c179110b19eafd0f78ff6880eb31bf9",
+    "bytes": 208721
+  },
+  {
+    "path": "assets/night-a/scene-night-a-baked--rain.webp",
+    "scene": "night-a",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "13972497da17a347e17bbb521611a68b99247a43318c74f32fcca298dfaf0ccb",
+    "bytes": 178772
+  },
+  {
+    "path": "assets/night-a/scene-night-a-baked--snow.mp4",
+    "scene": "night-a",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "110300a01232a32f21208db0ecc50d0f969701fc39539020283ae0822093eac9",
+    "bytes": 208414
+  },
+  {
+    "path": "assets/night-a/scene-night-a-baked--snow.webp",
+    "scene": "night-a",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "5e1e70507ecfeed04a47792a7168b1ffbf20173bb1777ebb957935fe737e58eb",
+    "bytes": 177802
+  },
+  {
+    "path": "assets/night-a/scene-night-a-winter--clear.mp4",
+    "scene": "night-a",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "70e54b9fa12bc3753b7600a5a97fc8d0e0ac733f445488ae0beae9f81c360031",
+    "bytes": 206372
+  },
+  {
+    "path": "assets/night-a/scene-night-a-winter--clear.webp",
+    "scene": "night-a",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "195e07167b559286d8e7150e1b57b023a2cba88beb9aa4b58ebced149df7a367",
+    "bytes": 190974
+  },
+  {
+    "path": "assets/night-a/scene-night-a-winter--rain.mp4",
+    "scene": "night-a",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "537d304477059dd6c1674db46ee257abeee024159b0663e4d7c84ce1f980486a",
+    "bytes": 206693
+  },
+  {
+    "path": "assets/night-a/scene-night-a-winter--rain.webp",
+    "scene": "night-a",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "6c0e5d94c6f682628132696ea24f9fb19144cee106d14d4ac26731a262aa160d",
+    "bytes": 194156
+  },
+  {
+    "path": "assets/night-a/scene-night-a-winter--snow.mp4",
+    "scene": "night-a",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "016b3408e37c21c0613c9ce56fc4f9a79027bda8740d772ce354b0e33bd3b38e",
+    "bytes": 207900
+  },
+  {
+    "path": "assets/night-a/scene-night-a-winter--snow.webp",
+    "scene": "night-a",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "a386e2fbf7c888e009c8de7c6006d857177bfc5538cd181f18b3ca58a4129b82",
+    "bytes": 193102
+  },
+  {
+    "path": "assets/night-b/scene-night-b-baked--clear.mp4",
+    "scene": "night-b",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "02f720cb72c992284dff3b01cb3a201dfcfe02c90e910664d92f92bd727fba53",
+    "bytes": 181103
+  },
+  {
+    "path": "assets/night-b/scene-night-b-baked--clear.webp",
+    "scene": "night-b",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "2fb71c95e392d90ed30d21d434de0db2dd3f56887de5b91f629599b2c94fb2e0",
+    "bytes": 162062
+  },
+  {
+    "path": "assets/night-b/scene-night-b-baked--rain.mp4",
+    "scene": "night-b",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "d844bc290e87b5c57ef327888a74e4ddff31bc109626487cbcfa327415300c4d",
+    "bytes": 183471
+  },
+  {
+    "path": "assets/night-b/scene-night-b-baked--rain.webp",
+    "scene": "night-b",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "2a890fbcf20faee0741f0b9b714cc9b5244038527a0884c799a72ab272419bf3",
+    "bytes": 167596
+  },
+  {
+    "path": "assets/night-b/scene-night-b-baked--snow.mp4",
+    "scene": "night-b",
+    "season": "通常",
+    "type": "動画",
+    "sha256": "ae1bcbe5ffcfbb92d8a29a5447a7cad4aa47d47f1988dfbf18b669ce91abf7a0",
+    "bytes": 182300
+  },
+  {
+    "path": "assets/night-b/scene-night-b-baked--snow.webp",
+    "scene": "night-b",
+    "season": "通常",
+    "type": "静止画",
+    "sha256": "a72143c5ec006a15b44bdf7004f440ebc9ae8a92cf1d862ab0519bd06cb149aa",
+    "bytes": 165524
+  },
+  {
+    "path": "assets/night-b/scene-night-b-winter--clear.mp4",
+    "scene": "night-b",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "7f8a84f6c66a8aa321a6b0d5170d8fbcffe1eb07ff8d673632407b606ef1acfe",
+    "bytes": 206933
+  },
+  {
+    "path": "assets/night-b/scene-night-b-winter--clear.webp",
+    "scene": "night-b",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "ea8753d120bec258579637d92e37a95b2abb405a2abe907f8de2ff11826c537d",
+    "bytes": 180456
+  },
+  {
+    "path": "assets/night-b/scene-night-b-winter--rain.mp4",
+    "scene": "night-b",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "67fcd6c351f2071e543b1cd3a8a5fe4136ccd92529d978c803b7be1cebef3fa1",
+    "bytes": 208908
+  },
+  {
+    "path": "assets/night-b/scene-night-b-winter--rain.webp",
+    "scene": "night-b",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "f468f6ef537ffd6795666a9923e74bbe0938552fd0ad87c63184d64728c90402",
+    "bytes": 183898
+  },
+  {
+    "path": "assets/night-b/scene-night-b-winter--snow.mp4",
+    "scene": "night-b",
+    "season": "冬",
+    "type": "動画",
+    "sha256": "3c5b6117940161b855d443bdbee6c2b92e7fbc1d69491563d9a98aa5d96de0fd",
+    "bytes": 208833
+  },
+  {
+    "path": "assets/night-b/scene-night-b-winter--snow.webp",
+    "scene": "night-b",
+    "season": "冬",
+    "type": "静止画",
+    "sha256": "0c1dcbd8ecc7e1f893b90c43f4591fff77038c53a46cf8106ab7ed909e938ece",
+    "bytes": 182768
+  }
+]
